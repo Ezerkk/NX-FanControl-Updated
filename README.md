@@ -15,19 +15,6 @@ Este projeto é baseado no trabalho original de **Zathawo**. Este fork visa mant
 
 > **Nota**: Todos os direitos e créditos do código original pertencem aos seus respectivos autores. Este repositório segue a licença MIT original.
 
-## 🛠️ Requisitos para Compilação
-Para compilar este projeto, você precisará do ambiente [devkitPro](https://devkitpro.org/wiki/Getting_Started) configurado com:
-- `switch-dev`
-- `libnx` (v5.0.0 ou superior)
-- `switch-mesa` (para o overlay)
-
-## 📦 Como Compilar
-```bash
-git clone --recurse-submodules https://github.com/Ezerkk/NX-FanControl-Updated.git
-cd NX-FanControl-Updated
-make all
-```
-
 ## 📥 Instalação
 1. Baixe a última versão na aba de [Releases]().
 2. Copie a pasta `atmosphere` para a raiz do seu cartão SD.
