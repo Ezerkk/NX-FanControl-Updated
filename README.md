@@ -12,6 +12,7 @@ Este projeto é baseado no trabalho original de **Zathawo**. Este fork visa mant
 - **Criador Original**: [Zathawo](https://github.com/Zathawo)
 - **Contribuições Importantes**: [masagrator](https://github.com/masagrator) (Correções de estabilidade e performance).
 - **Contribuições Importantes**: [dominatorul](https://github.com/dominatorul) (Correções de estabilidade e performance).
+- **Contribuições Importantes**: [Insektaure](https://github.com/Insektaure) (Correções de estabilidade e performance).
 
 > **Nota**: Todos os direitos e créditos do código original pertencem aos seus respectivos autores. Este repositório segue a licença MIT original.
 
