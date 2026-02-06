@@ -18,7 +18,7 @@ Este projeto é baseado no trabalho original de **Zathawo**. Este fork visa mant
 
 ## 📥 Instalação
 1. Baixe a última versão na aba de [Releases]().
-2. Copie a pasta `atmosphere` para a raiz do seu cartão SD.
+2. Copie a pasta `atmosphere e switch` para a raiz do seu cartão SD.
 3. Reinicie o console.
 4. Acesse o menu Tesla para configurar a curva da fan.
 
