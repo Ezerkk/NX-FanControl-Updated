@@ -17,7 +17,7 @@ Este projeto é baseado no trabalho original de **Zathawo**. Este fork visa mant
 > **Nota**: Todos os direitos e créditos do código original pertencem aos seus respectivos autores. Este repositório segue a licença MIT original.
 
 ## 📥 Instalação
-1. Baixe a última versão na aba de [Releases]().
+1. Baixe a última versão na aba de [Releases](https://github.com/Ezerkk/NX-FanControl-Updated/releases/).
 2. Copie a pasta `atmosphere e switch` para a raiz do seu cartão SD.
 3. Reinicie o console.
 4. Acesse o menu Tesla para configurar a curva da fan.
